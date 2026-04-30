@@ -1,3 +1,3 @@
 # Super-Mario
-Super-Mario. 
+Super-Mario.
 
